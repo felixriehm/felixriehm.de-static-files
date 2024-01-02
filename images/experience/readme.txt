@@ -1,0 +1,1 @@
+image are scaled to 1024 or 1440 in the longest edge dimension (width or height)
